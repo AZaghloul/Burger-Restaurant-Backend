@@ -1,0 +1,90 @@
+{
+  "products": [
+    {
+      "name": "Large Burger",
+      "price": 40,
+      "count": 0,
+      "isInCart": false,
+      "typeId": 1,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Large Fries",
+      "price": 20,
+      "count": 0,
+      "isInCart": false,
+      "typeId": 2
+    },
+    {
+      "id": 3,
+      "name": "Large Cola",
+      "price": 15,
+      "count": 0,
+      "isInCart": false,
+      "typeId": 3
+    },
+    {
+      "id": 4,
+      "name": "Regular Burger",
+      "price": 30,
+      "count": 0,
+      "isInCart": false,
+      "typeId": 1
+    },
+    {
+      "id": 5,
+      "name": "Regular Fries",
+      "price": 15,
+      "count": 0,
+      "isInCart": false,
+      "typeId": 2
+    },
+    {
+      "id": 6,
+      "name": "Regular Cola",
+      "price": 10,
+      "count": 0,
+      "isInCart": false,
+      "typeId": 3
+    },
+    {
+      "id": 7,
+      "name": "Small Burger",
+      "price": 20,
+      "count": 0,
+      "isInCart": false,
+      "typeId": 1
+    },
+    {
+      "id": 8,
+      "name": "Small Fries",
+      "price": 10,
+      "count": 0,
+      "isInCart": false,
+      "typeId": 2
+    },
+    {
+      "id": 9,
+      "name": "Small Cola",
+      "price": 5,
+      "count": 0,
+      "isInCart": false,
+      "typeId": 3
+    }
+  ],
+  "types": [
+    {
+      "id": 1,
+      "name": "Burger"
+    },
+    {
+      "id": 2,
+      "name": "Fries"
+    },
+    {
+      "id": 3,
+      "name": "Cola"
+    }
+  ]
+}
